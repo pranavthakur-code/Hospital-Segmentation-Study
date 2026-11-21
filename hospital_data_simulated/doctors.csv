@@ -1,0 +1,61 @@
+doctor_id,hospital_id,department
+DR001,H1,General Medicine
+DR002,H1,General Medicine
+DR003,H1,General Medicine
+DR004,H1,Cardiology
+DR005,H1,Pulmonology
+DR006,H1,Nephrology
+DR007,H1,Obstetrics & Gynaecology
+DR008,H1,Obstetrics & Gynaecology
+DR009,H1,Orthopaedics
+DR010,H1,Orthopaedics
+DR011,H1,General Surgery
+DR012,H1,Dermatology
+DR013,H1,Paediatrics
+DR014,H1,Paediatrics
+DR015,H1,ENT
+DR016,H2,General Medicine
+DR017,H2,General Medicine
+DR018,H2,General Medicine
+DR019,H2,Cardiology
+DR020,H2,Pulmonology
+DR021,H2,Nephrology
+DR022,H2,Obstetrics & Gynaecology
+DR023,H2,Obstetrics & Gynaecology
+DR024,H2,Orthopaedics
+DR025,H2,Orthopaedics
+DR026,H2,General Surgery
+DR027,H2,Dermatology
+DR028,H2,Paediatrics
+DR029,H2,Paediatrics
+DR030,H2,ENT
+DR031,H3,General Medicine
+DR032,H3,General Medicine
+DR033,H3,General Medicine
+DR034,H3,Cardiology
+DR035,H3,Pulmonology
+DR036,H3,Nephrology
+DR037,H3,Obstetrics & Gynaecology
+DR038,H3,Obstetrics & Gynaecology
+DR039,H3,Orthopaedics
+DR040,H3,Orthopaedics
+DR041,H3,General Surgery
+DR042,H3,Dermatology
+DR043,H3,Paediatrics
+DR044,H3,Paediatrics
+DR045,H3,ENT
+DR046,H4,General Medicine
+DR047,H4,General Medicine
+DR048,H4,General Medicine
+DR049,H4,Cardiology
+DR050,H4,Pulmonology
+DR051,H4,Nephrology
+DR052,H4,Obstetrics & Gynaecology
+DR053,H4,Obstetrics & Gynaecology
+DR054,H4,Orthopaedics
+DR055,H4,Orthopaedics
+DR056,H4,General Surgery
+DR057,H4,Dermatology
+DR058,H4,Paediatrics
+DR059,H4,Paediatrics
+DR060,H4,ENT
